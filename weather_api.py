@@ -1,6 +1,6 @@
 import requests
 # api key you can generate from openweathermap.org
-api_key = "d0efa552d653d91a1b9859d0e20cc5b9"
+api_key = "Your api keys comes here"
 
 # Latitude AND longitude of your area You can get it from gpt or Google
 lat = 28.96395
